@@ -1,0 +1,16 @@
+body{
+    background: url(https://media.giphy.com/media/26BGpoRpKmBIB6aB2/giphy.gif);
+    background-size: 90rem;
+
+}
+table{
+    margin:0 auto;
+    text-align: left;
+    color: rgba(245, 243, 153, 0.959);
+}
+nav{
+    font-size: 20px;
+    color: rgb(250, 243, 243);
+  text-align: center;
+
+}
